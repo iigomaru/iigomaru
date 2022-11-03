@@ -1,16 +1,24 @@
-### Hi there 👋
+# About Me
 
-<!--
-**iigomaru/iigomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm passionate about optimisation!
+* Technical Artist, with a particular focus on Virtual Reality 
+* I am specifically interested in the following technical topics
+  * Industrial applications for VR technologies
+  * Low power and Mobile VR
+  * High-Speed Cryptography
+  * Distributed Computing
+  * Systems engineering / Cybernetics
+  * Human-computer Interface (HCI)
+* BA in Art History, Criticism and Conservation from the University of North Carolina at Greensboro (2016-2021), with specific focus on Ceramics and Japanese Art
+* Programming since 2012, my favorite language is C
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notable Projects
+
+* Created a robust [immersive mirror system](https://github.com/iigomaru/VRC-Shaders/releases/tag/v1.2.0) for VRChat, that outperforms all other available options on all metrics
+* Primary Technical Artist for "[Prison Escape](https://vrchat.com/home/world/wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a)" one of the most popular experiences on VRChat
+  * 5.3 million downloads (November 2022)
+  * 400+ Concurrent User Count (November 2022)
+* Implemented 3D video support and optimized for mobile the Shaders for [ProTV](https://gitlab.com/techanon/protv), one of the most popular and full featured video player solutions for VRChat
+* [UDCrypt](https://github.com/iigomaru/UDcrypt): Cryptography library for VRChat's Scripting Language Udon
+  * implementation of Daniel J. Bernstein's ChaCha20 stream cipher per [RFC8439](https://www.rfc-editor.org/rfc/rfc8439)
