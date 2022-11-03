@@ -1,6 +1,6 @@
 # About Me
 
-* I'm passionate about optimisation!
+* I'm passionate about optimization!
 * Technical Artist, with a particular focus on Virtual Reality 
 * I am specifically interested in the following technical topics
   * Industrial applications for VR technologies
